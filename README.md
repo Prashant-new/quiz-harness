@@ -15,6 +15,7 @@ Our installed version currently differs.
 
 ## Harness files
 - AGENTS.md: project context and development instructions.
+- SPEC.md: describes the quiz application's required behaviour.
 - tools/check_questions.py: validates the question bank.
 - .opencode/tools/check_questions.ts: lets OpenCode call the checker.
 
